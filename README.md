@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I'm currently learning C++, and I'm also working on improving my skills in Python, Java & MATLAB.
+
 <!--
 **DhruvG0204/DhruvG0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
